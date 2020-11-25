@@ -1,0 +1,12 @@
+{
+    "item.solarfurnace.soft_stone": "Soft Stone",
+    
+    "itemGroup.Solar-Furnace": "Solar Furnace Tab",
+    
+   
+    "item.solarfurnace.shapedstone_sword": "Shapedstone Sword",
+    "item.solarfurnace.shapedstone_pickaxe": "Shapedstone Pickaxe",
+    "item.solarfurnace.shapedstone_shovel": "Shapedstone Shovel",
+    "item.solarfurnace.shapedstone_axe": "Shapedstone Axe",
+    "item.solarfurnace.shapedstone_hoe": "Shapedstone Hoe"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "x  ",
+        "xx ",
+        "xx "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "solarfurnace:soft_stone"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:stone_bricks",
+        "count": 8
+    }
+}

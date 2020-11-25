@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx ",
+        " s ",
+        " s "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "solarfurnace:soft_stone"
+        },
+        "s":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "solarfurnace:shapedstone_hoe",
+        "count": 1
+    }
+}
